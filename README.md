@@ -1,4 +1,5 @@
-# Hi, I'm Oladdev 👋
+
+# Hi, I'm Atolagbe Olawole 👋
 
 **Software Engineering Student | Frontend Developer**
 
@@ -17,37 +18,43 @@ I’m a software engineering student passionate about building clean, functional
 
 ## 🛠️ Skills & Tools
 
-**Languages:**
-HTML · CSS · JavaScript · C++ · Java
+**Languages:** <img src="https://skillicons.dev/icons?i=html,css,js,cpp,java" />
 
-**Tools & Platforms:**
-Git · GitHub · VS Code · GitHub Pages
+**Tools & Platforms:** <img src="https://skillicons.dev/icons?i=git,github,vscode,netlify" />
 
 ---
 
-## 🚀 Featured Projects
+## 📌 Featured Projects
 
-### 💻 My Portfolio
-A personal portfolio website showcasing my skills and projects.  
-**Tech:** HTML, CSS  
-🔗 [Live Demo](#) • [Code](https://github.com/Oladdev/My-Portfolio)
+### 🌐 My Portfolio
+
+A personal portfolio website showcasing my skills, projects, and growth as a developer.
+**Tech:** HTML, CSS
+🔗 <a href="https://github.com/Oladdev/My-Portfolio">Code</a>
+
+---
 
 ### 💳 Payment Verification
-A frontend interface that validates payment references.  
-**Tech:** HTML, CSS, JavaScript  
-🔗 [Live Demo](#) • [Code](https://github.com/Oladdev/Payment-Verification)
 
-### 🎮 TIC-TAC-TOE Game
-Classic Tic-Tac-Toe implemented with JavaScript.  
-**Tech:** JavaScript  
-🔗 [Live Demo](#) • [Code](https://github.com/Oladdev/TIC-TAC-TOE-Game)
+A frontend payment verification interface that validates payment references and displays success states.
+**Tech:** HTML, CSS, JavaScript
+🔗 <a href="https://github.com/Oladdev/Payment-Verification">Code</a>
+
+---
+
+### 🎮 TIC‑TAC‑TOE Game
+
+A classic Tic‑Tac‑Toe game with interactive gameplay and simple logic handling.
+**Tech:** JavaScript
+🔗 <a href="https://github.com/Oladdev/TIC-TAC-TOE-Game">Code</a>
+
+---
 
 ### ⚛️ My First React App
-A beginner React application showing component-based UI.  
-**Tech:** React, JavaScript  
-🔗 [Live Demo](#) • [Code](https://github.com/Oladdev/my-first-react-app)
 
-*(More projects coming as I continue building.)*
+A beginner‑level React project demonstrating component structure and state basics.
+**Tech:** React, JavaScript
+🔗 <a href="https://github.com/Oladdev/my-first-react-app">Code</a>
 
 ---
 
@@ -66,3 +73,5 @@ I’m actively learning and improving by building projects and practicing consis
 ---
 
 ⭐️ *This profile is a work in progress — growing as I grow as a developer.*
+
+
